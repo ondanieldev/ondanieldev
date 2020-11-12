@@ -4,7 +4,7 @@
 
 I'm **18 years old** and I started to be interested in programming at 14.
 
-I work mainly with NodeJS, ReactJS and TypeScript.
+I work mainly with **NodeJS, ReactJS and TypeScript**.
 
 I'm currently studying Information Systems at the Federal University of Minas Gerais (**UFMG**) in order to obtain opportunities to learn **robotics** from a scientific point of view.
 
