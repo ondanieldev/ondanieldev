@@ -25,10 +25,10 @@ Most of my projects are open source, like [microchat](https://github.com/stemDan
 
 Hit me up on [Twitter](https://twitter.com/danoliveirakkk) or [Instagram](https://instagram.com/danieloliveirakkk).
 
-If you want to do it the old fasioned way, I have an [email](mailto:me@ondaniel.com) too.
+If you want to do it the old fashioned way, I have an [email](mailto:me@ondaniel.com) too.
 
 :bar_chart: **Stats**
 
 [![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=stemDaniel)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stemDaniel)](https://github.com/anuraghazra/github-readme-stats)% 
+[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stemDaniel)](https://github.com/anuraghazra/github-readme-stats)
