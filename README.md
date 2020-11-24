@@ -1,4 +1,4 @@
-### Welcome to the left side of my brain! :rocket:
+### :rocket: Welcome to the left side of my brain! :rocket:
 
 :headphones: **About**
 
@@ -16,9 +16,13 @@ In short, I love **robotics, machine learning, artificial intelligence, IoT, web
 
 Sometimes, I also edit **photos and videos**, but I'm just an amateur.
 
-:computer: **Projects**
+:computer: **Projects and Work**
 
 Most of my projects are open source, like [microchat](https://github.com/stemDaniel/microservices-chat), [news-proxy](https://github.com/stemDaniel/news-proxy) and [onloto](https://github.com/stemDaniel/onloto).
+
+I worked at a school and developed systems to improve their management. Two of these projects started as open source and are still storaged on my GitHub. You can access them at [sisgie](https://github.com/stemDaniel/santiago) and [enrollments](https://github.com/stemDaniel/santiago-reenrollments).
+
+Actually, I work at [Spiry Media Investment Group](http://spirymedia.ro/) as a fullstack developer.
 
 
 :iphone: **Contact**
