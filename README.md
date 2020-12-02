@@ -1,5 +1,9 @@
 ### :rocket: Welcome to the left side of my brain! :rocket:
 
+:fire: **Current**
+
+Working hard at [Spiry Capital](https://spiry.ro/) creating a new powerfull version of [Koinzaar](https://www.koinzaar.com/).
+
 :headphones: **About**
 
 I'm **18 years old** and I started to be interested in programming at 14.
