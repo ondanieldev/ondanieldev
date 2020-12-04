@@ -37,6 +37,5 @@ If you want to do it the old fashioned way, I have an [email](mailto:me@ondaniel
 
 :bar_chart: **Stats**
 
-[![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=stemDaniel)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stemDaniel)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stemDaniel&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=stemDaniel&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
