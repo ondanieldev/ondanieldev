@@ -31,9 +31,9 @@ Actually, I work at [Spiry Media Investment Group](https://spiry.ro/) as a fulls
 
 :iphone: **Contact**
 
-Hit me up on [Twitter](https://twitter.com/danoliveirakkk) or [Instagram](https://instagram.com/danieloliveirakkk).
+Hit me up on [Twitter](https://twitter.com/devdanieloli) or [Instagram](https://instagram.com/devdanieloliveira).
 
-If you want to do it the old fashioned way, I have an [email](mailto:me@ondaniel.com) too.
+If you want to do it the old fashioned way, I have an [email](mailto:me@ondaniel.com.br) too.
 
 :bar_chart: **Stats**
 
