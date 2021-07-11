@@ -1,5 +1,9 @@
 ### :rocket: Welcome to the left side of my brain! :rocket:
 
+:notebook: **Current**
+
+You can see my portfolio at [Ondaniel](https://ondaniel.com.br/).
+
 :fire: **Current**
 
 Working hard at [Spiry Capital](https://spiry.ro/) creating a new SaaS version of [Battlestation](https://dashboard.spiry.ro/).
