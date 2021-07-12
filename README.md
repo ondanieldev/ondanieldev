@@ -26,20 +26,20 @@ Sometimes, I also edit **photos and videos**, but I'm just an amateur.
 
 :computer: **Projects and Work**
 
-Most of my projects are open source, like [Wellets](https://github.com/stemDaniel/wellets-frontend), [microchat](https://github.com/stemDaniel/microservices-chat), [news-proxy](https://github.com/stemDaniel/news-proxy) and [onloto](https://github.com/stemDaniel/onloto).
+Most of my projects are open source, like [Wellets](https://github.com/ondanieldev/wellets-frontend), [microchat](https://github.com/ondanieldev/microservices-chat), [news-proxy](https://github.com/ondanieldev/news-proxy) and [onloto](https://github.com/ondanieldev/onloto).
 
-I worked at a school and developed systems to improve their management. Two of these projects started as open source and are still storaged on my GitHub. You can access them at [sisgie](https://github.com/stemDaniel/santiago) and [enrollments](https://github.com/stemDaniel/santiago-reenrollments).
+I worked at a school and developed systems to improve their management. Two of these projects started as open source and are still storaged on my GitHub. You can access them at [sisgie](https://github.com/ondanieldev/santiago) and [enrollments](https://github.com/ondanieldev/santiago-reenrollments).
 
 Actually, I work at [Spiry Media Investment Group](https://spiry.ro/) as a fullstack developer.
 
 
 :iphone: **Contact**
 
-Hit me up on [Twitter](https://twitter.com/devdanieloli) or [Instagram](https://instagram.com/devdanieloliveira).
+Hit me up on [Twitter](https://twitter.com/ondanieldev) or [Instagram](https://instagram.com/ondanieldev).
 
 If you want to do it the old fashioned way, I have an [email](mailto:me@ondaniel.com.br) too.
 
 :bar_chart: **Stats**
 
-[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stemDaniel&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=stemDaniel&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ondanieldev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=ondanieldev&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
