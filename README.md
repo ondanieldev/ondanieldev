@@ -1,6 +1,6 @@
 ### :rocket: Welcome to the left side of my brain! :rocket:
 
-:notebook: **Current**
+:notebook: **Portfolio**
 
 You can see my portfolio at [Ondaniel](https://ondaniel.com.br/).
 
