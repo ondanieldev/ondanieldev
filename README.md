@@ -18,11 +18,7 @@ I'm currently studying Information Systems at the Federal University of Minas Ge
 
 I'm also learning about **blockchain** and improoving my **english** on my own.
 
-I listen **music** all day and it's like my gasoline (**coffee** also has responsibility in this).
-
 In short, I love **robotics, machine learning, artificial intelligence, IoT, web development, linux**, and much more!
-
-Sometimes, I also edit **photos and videos**, but I'm just an amateur.
 
 :computer: **Projects and Work**
 
