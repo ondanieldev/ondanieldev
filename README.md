@@ -8,18 +8,6 @@ You can see my portfolio at [Ondaniel](https://ondaniel.com.br/).
 
 Working hard at [Spiry Capital](https://spiry.ro/) creating a new SaaS version of [Battlestation](https://dashboard.spiry.ro/).
 
-:headphones: **About**
-
-I'm **18 years old** and I started to be interested in programming at 14.
-
-I work mainly with **NodeJS, ReactJS and TypeScript**.
-
-I'm currently studying Information Systems at the Federal University of Minas Gerais (**UFMG**) in order to obtain opportunities to learn **robotics** from a scientific point of view.
-
-I'm also learning about **blockchain** and improoving my **english** on my own.
-
-In short, I love **robotics, machine learning, artificial intelligence, IoT, web development, linux**, and much more!
-
 :computer: **Projects and Work**
 
 Most of my projects are open source, like [Wellets](https://github.com/ondanieldev/wellets-frontend), [microchat](https://github.com/ondanieldev/microservices-chat), [news-proxy](https://github.com/ondanieldev/news-proxy) and [onloto](https://github.com/ondanieldev/onloto).
