@@ -14,7 +14,7 @@ Most of my projects are open source, like [Wellets](https://github.com/ondanield
 
 I worked at a school and developed systems to improve their management. Two of these projects started as open source and are still storaged on my GitHub. You can access them at [sisgie](https://github.com/ondanieldev/santiago) and [enrollments](https://github.com/ondanieldev/santiago-reenrollments).
 
-Actually, I work at [Spiry Media Investment Group](https://spiry.ro/) as a fullstack developer.
+Currently, I work at [Spiry Media Investment Group](https://spiry.ro/) as a fullstack developer.
 
 
 :iphone: **Contact**
