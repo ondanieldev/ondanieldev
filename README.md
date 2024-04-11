@@ -1,4 +1,4 @@
-### :rocket: Welcome to the left side of my brain! :rocket:
+### :rocket: Welcome to my GitHub profle! :rocket:
 
 :notebook: **Portfolio**
 
